@@ -1,0 +1,11 @@
+#imagen-x {
+    width: 80px;
+    position:fixed;
+}
+
+.juego-dardos {
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+}
